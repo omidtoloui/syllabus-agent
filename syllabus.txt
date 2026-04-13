@@ -1,0 +1,301 @@
+MGMT 274A/B – Advanced Topics in Management Capstone: Advancing Health Tech Innovation
+Fall 2026 – 4 Units
+Winter 2027 – 4 Units
+In Progress from A Term to B Term
+
+Course Syllabus
+
+Teaching Team Information
+This course is offered in partnership with the UCLA Anderson Center for Healthcare Innovation.
+
+Faculty of Record: Omid Toloui, Assistant Adjunct Professor
+Email: omid.toloui@anderson.ucla.edu
+Office location: By appointment / via Zoom
+Office hours: By appointment
+
+Course Meeting Times and Location
+Course Day & Time: Wednesdays. Please see Course Outline for specific dates.
+Course Location: TBD
+Course Site: BruinLearn (link provided upon enrollment)
+
+Pre-requisites/Co-requisites
+Must be taken in second year of the MBA program. Full-time MBA students must apply and be approved for admission. Priority is given to teams with diverse functional skills and industry experience and a demonstrated commitment to exceptional client-facing work. Entrepreneurship and Venture Initiation (EVI) is recommended but not required as a prerequisite.
+
+Course Description
+
+274A Course – 4 Units
+Seminar, three hours. Must be taken after completion of first year in program. Faculty-led capstone engagement in health technology innovation, in which student teams work with early-stage health tech companies to identify strategic problems, conduct market and competitive analysis, and develop actionable commercialization recommendations. Teams apply AI tools, market-driven frameworks, and healthcare domain knowledge to produce deliverables the companies can use. In Progress grading (credit to be given only on completion of course 274B).
+
+274B Course – 4 Units
+Fieldwork, three hours. Enforced requisite: course 274A. Must be taken after completion of first year in program. Continuation of the health tech innovation capstone engagement. Student teams refine strategic recommendations through peer critique, company feedback, and independent analysis, culminating in a final presentation and written strategic deliverable to the company's leadership team. Letter grading.
+
+Expanded Description
+This is a two-quarter capstone where you do real strategic work for real early-stage health tech companies. No simulations. No hypothetical case studies. Five teams of five students, each embedded with a company working on problems that matter: helping premature infants develop language through acoustic monitoring in the NICU, bringing rapid point-of-care sickle cell diagnostics to underserved communities, developing antimicrobial smart textiles that could change how hospitals prevent infections, building robotic companions for people living with dementia, and creating novel blood collection devices for clinical laboratories. Your team works directly with company leadership to scope the problem, conduct primary and secondary research, build the analysis, and deliver recommendations the company can actually implement. This is the kind of work that shapes product launches, funding decisions, and market entry strategies.
+
+What makes this course different from a typical classroom strategy project is threefold. First, it's AI-native. You won't just be permitted to use AI tools; you'll be expected to build with them. You'll set up persistent AI research environments, build custom analytical tools, design multi-step workflows, and learn where AI accelerates your work and where it produces confident-sounding nonsense that requires your judgment to catch. It's how high-performing professionals will be expected to work in a post-AI business environment. By the end, you'll have a portfolio of AI-augmented strategy tools and the fluency to build more. Second, it's grounded in healthcare's unique dynamics. Health tech doesn't always commercialize like consumer tech or enterprise SaaS. You'll learn enough about regulation, reimbursement, multi-stakeholder purchasing, and value demonstration to do credible work in the space, even if you've never worked in healthcare before. Third, it's market-driven. Every analysis starts from the market back, not the technology forward. The question is never "what can this product do?" It's "what does the market need, and how does this product fit?"
+
+The first quarter is the foundations quarter: structured weekly sessions pairing common curriculum with team project work, building the analytical toolkit and healthcare fluency you need to do the job well. The second quarter is the delivery quarter: teams go deeper into company work, refine their recommendations through peer critique rounds, present drafts to company leadership for feedback, and deliver a final strategic presentation and written deliverable. If you're looking for a capstone that builds real skills, produces a real deliverable, and gives you an authentic operator experience at the intersection of healthcare, technology, and strategy, this is it.
+
+Course Objectives
+This capstone course is intended to help students apply the frameworks and tools acquired in the program to real-life business issues. At the end of the course, students will be able to:
+
+1. Conduct rigorous market analysis for early-stage health tech companies, including TAM/SAM/SOM sizing with healthcare-specific funnels, customer segmentation, and competitive positioning grounded in primary and secondary research.
+2. Develop actionable strategies for go-to-market and business model design that account for the unique dynamics of healthcare commercialization, including regulatory pathways, reimbursement economics, multi-stakeholder purchasing, and institutional buying cycles.
+3. Use AI tools as core instruments of strategic analysis and communication, including building persistent AI research environments, designing custom analytical workflows, and exercising judgment about when AI output is reliable and when it requires human validation.
+4. Build working healthcare fluency in the regulatory, reimbursement, and market dynamics that shape health tech commercialization.
+5. Deliver executive-quality recommendations that lead with the answer, structure supporting arguments logically, and tailor the message to the specific constraints and opportunities of an early-stage company.
+6. Function effectively on a consulting team, managing client relationships, giving and receiving substantive strategic feedback, resolving team dynamics issues, and maintaining professional standards throughout a multi-quarter engagement.
+7. Synthesize analytical frameworks from across the MBA curriculum (finance, marketing, operations, strategy) and apply them to complex, ambiguous, real-world problems where the "right answer" is not predetermined.
+8. Articulate personal development goals, assess progress against them with intellectual honesty, and reflect critically on how the experience shaped their thinking as a leader.
+
+Course Materials
+
+Required
+All required readings, cases, and media are listed in the detailed weekly course outline below with links. A complete reading list will also be posted on BruinLearn prior to the start of the quarter. Materials include articles, HBS cases, podcasts, videos, Anthropic Academy online courses, and instructor-prepared guides. Most resources are free or available through UCLA library access.
+
+The required case purchase is:
+Herzlinger, Regina E., et al. "Osteoboost: Go-To-Market Strategy in a Healthcare Startup." HBS Case 325-135, July 2025. (~$4.25 via HBS Publishing)
+
+Required Tools and Accounts
+- Claude (claude.ai) — the primary AI platform for this class. Students will create Claude Projects as persistent research and working environments. Students interested in building persistent AI agents and advanced workflows will be supported, but this is not required.
+- NotebookLM (notebooklm.google.com) — for managing research corpora and grounded Q&A.
+
+Optional
+- Mollick, Ethan. Co-Intelligence: Living and Working with AI. Portfolio/Penguin, 2024.
+- Moore, Geoffrey. Crossing the Chasm, revised edition. HarperBusiness, 2014.
+- Minto, Barbara. The Pyramid Principle. Pearson, 2010.
+
+These books are not required. The relevant concepts from each are covered through assigned articles, instructor-prepared materials, and in-class instruction. Students who want to go deeper on AI collaboration (Mollick), technology adoption strategy (Moore), or structured communication (Minto) will find them valuable reference texts.
+
+AI Usage Policy
+This course treats AI as a core professional tool. You are expected to use AI throughout your project work: for research, analysis, tool-building, drafting, and iteration. The question is not whether you use AI, but how well you use it and how clearly you exercise judgment about its outputs.
+
+What's expected:
+- Set up and maintain a Claude Project as your team's persistent analytical environment. Load it with company documents, research findings, and well-crafted system prompts.
+- Build custom AI tools and workflows for your specific analytical needs: market sizing models, interview guide generators, competitive intelligence agents, scenario analysis tools.
+- Use AI to draft, structure, and iterate on deliverables. Use it to structure your strategic narrative so it leads with the recommendation and builds a logical argument.
+- Document your AI methods. Every major team deliverable includes an AI methods appendix: what tools you built, how you used them, where AI was most and least valuable, and where your judgment overrode an AI recommendation.
+
+What's non-negotiable:
+- Every factual claim in a deliverable must be verified against a primary source. AI is unreliable at producing specific numbers, statistics, and citations. "Claude said so" is not a citation.
+- Strategic judgment is yours. The recommendation must reflect your team's analysis and reasoning. If you cannot defend a recommendation without referring to what the AI suggested, you have not done the work.
+- Peer feedback must be written by humans. Do not use AI to generate your peer critique forms.
+- Your individual reflection must be authentically yours.
+
+How to cite AI usage:
+For all assignments, include a brief AI acknowledgment noting which tools you used and how. For major deliverables, include the AI methods appendix. You do not need to cite every individual prompt, but your documentation should give a reader a clear picture of your AI workflow.
+
+The line between AI-augmented work and AI-replacing-the-thinking:
+AI-augmented work: you form a hypothesis, use AI to research it, discover the hypothesis is wrong, revise your thinking, use AI to structure the revised argument, verify the evidence, and deliver a recommendation you can defend. AI-replacing-the-thinking: you ask AI to "develop a go-to-market strategy for this company," paste the output into your deliverable, and present it as your analysis. That's not strategic consulting. That's copy-paste with extra steps, and it will be obvious in the quality of the work.
+
+If you have questions about what is and isn't appropriate, ask.
+
+Evaluation and Grading
+
+Required Assignments and Weighted Percentages
+
+Individual (40%):
+- Personal Goal Statement: 2% (AI allowed, individual)
+- Class Participation: 20% (individual)
+- Osteoboost Case Analysis: 10% (AI allowed, individual)
+- Individual Final Reflection: 8% (Limited AI — may be used for grammar and proofreading but not for generating the substance, individual)
+
+Team (50%):
+- Project Scope and Workplan: 5% (AI allowed, team)
+- Strategic Direction Presentation (Q1): 7.5% (AI allowed, team)
+- Strategic Direction Document (Q1): 5% (AI allowed, team)
+- Draft Strategic Recommendations (Q2): 2.5% (AI allowed, team)
+- Final Presentation to Company (Q2): 17.5% (AI allowed, team)
+- Final Written Strategic Deliverable (Q2): 12.5% (AI allowed, team)
+
+Peer & Client (10%):
+- Client Management: 5% (team)
+- 360 Peer Evaluation: 5% (No AI, individual)
+
+Total: 100%
+
+Grades
+Students are individually evaluated based on performance on graded assignments and participation in course activities. Individual team members can and do receive different grades. Students will receive an in-process grade for the first term of this course, and grades will be assigned at the close of the second term.
+
+Your overall course grade will be determined by how your performance on graded assignments ranks in comparison with other students in the class according to the grade distribution model at Anderson. Note that courses in which an overall grade of C is received must be offset by higher grades in the same term for students to remain in good academic standing at UCLA.
+
+Individual grades on team deliverables may be adjusted based on peer evaluations to reflect relative contribution. The mid-course 360 peer evaluation (end of Q1) is purely developmental. The final 360 peer evaluation (end of Q2) can adjust an individual's team deliverable grade up or down by up to one-third of a letter grade.
+
+Grading Criteria for Consulting Project Deliverables
+A-range work is distinguished by: rigorous, multi-sourced analysis with verified data and stress-tested assumptions; specific, sequenced, and immediately actionable recommendations; deep grounding in market reality with evidence of stakeholder conversations; realistic feasibility assessment; clear structured communication that leads with the answer; and transparent, sophisticated AI tool usage that demonstrates genuine judgment.
+
+B-range work covers the major issues competently with adequate data sources and reasonable recommendations, but may lack the depth, specificity, or stakeholder grounding of A-range work.
+
+C-range work relies on thin analysis, single source types, or unverified claims. Recommendations are vague, generic, or disconnected from the evidence.
+
+Assignment Descriptions
+
+Personal Goal Statement
+A 1-2 page document articulating what you want to get out of the course: specific skills to develop, areas of growth, how this connects to your career trajectory, and what you plan to contribute to your team. Goals that are specific, measurable, and connected to both your career trajectory and your team's project exceed the standard. Due by Week 2, submitted via Course Site.
+
+Class Participation
+Your attendance, quality of engagement with readings and cases, contributions to class discussion, peer critique quality (Q2), AI toolkit demo contributions, and professionalism in company interactions. The instructor maintains a running participation log across four dimensions: class discussion quality, peer critique quality, AI demo contribution, and company professionalism. Assessed throughout both quarters.
+
+Osteoboost Case Analysis
+An individual 2-3 page written analysis of the Osteoboost HBS case, which covers go-to-market strategy for an early-stage medical device startup choosing among five distinct GTM paths under capital constraints. Apply course frameworks to take a clear position on which GTM path the company should pursue and defend it with evidence. Connect the Osteoboost situation to your own company's challenges where relevant. AI tools may be used for research and structuring, but the analysis must reflect your own judgment. Due by Week 7, submitted via Course Site.
+
+Project Scope and Workplan
+A team deliverable: 3-5 page document defining the strategic question, deliverables, research plan, week-by-week workplan, and division of labor. Company sponsor acknowledgment required. Due by Week 3, submitted via Course Site.
+
+Strategic Direction Presentation (Q1)
+A 20-25 minute team presentation in Week 8. Each team presents their strategic direction, key findings, emerging recommendations, open questions, and Q2 work plan. Evaluated on whether the direction is defensible, grounded in evidence, and honest about uncertainties. Deck due by start of class via Course Site.
+
+Strategic Direction Document (Q1)
+A team deliverable: 5-10 page written articulation of strategic recommendations, supported by quarter-long research. Includes AI methods appendix, Q2 work plan, and team reflection. Due one week after Week 10, submitted via Course Site.
+
+360 Peer Evaluations
+Two rounds across four dimensions: intellectual contribution, work ethic, collaboration, and AI tool development. Mid-course evaluation (end of Week 10) is developmental. Final evaluation (end of Week 20) can adjust individual team grades by up to one-third of a letter grade.
+
+Draft Strategic Recommendations (Q2)
+A team progress checkpoint at approximately 60-70% completion. Evaluated on progress and trajectory. Due by Week 16, submitted via Course Site.
+
+Final Presentation to Company (Q2)
+A 30-minute team presentation (plus 15-minute Q&A) to company leadership and a faculty panel in Week 20. Evaluated by instructor (60%), company (25%), and panel (15%).
+
+Final Written Strategic Deliverable (Q2)
+A 15-30 page strategic document (plus appendices) the company can use. Includes updated AI methods appendix and an organized compendium of all research, analysis, tools, and supporting materials for the company to use after the engagement. Evaluated by instructor (70%) and company (30%). Due by end of Week 20, submitted via Course Site.
+
+Individual Final Reflection
+A 3-4 page reflective essay mapping back to your Week 1 goal statement. Addresses learning, skills development, honest self-assessment, and how your understanding of AI evolved. Due by end of Week 20, submitted individually via Course Site. Not shared with teammates.
+
+Client Management Assessment
+Team's professional relationship with company sponsor, evaluated throughout both quarters by instructor observation (60%) and company feedback (40%).
+
+Faculty Bio
+Omid Toloui is Assistant Adjunct Professor at UCLA Anderson School of Management. A Triple Bruin (BS, MBA, MPH), Omid brings over two decades of experience spanning payer organizations, provider systems, digital health startups, management consulting, and AI development. He served as VP of Innovation at Elevance Health (Fortune 20), where he restructured the enterprise innovation function, launched the company's first large-scale AI implementation, and tripled the team's annual run-rate impact. He was a founding team member at Altegra Health, a digital health company where he led product management and helped scale the company through multiple acquisitions and an eventual exit to Optum. Earlier in his career, he led strategy and performance improvement engagements for health systems, academic medical centers, and investors, and founded the Strategic Analytics practice at Sinaiko Healthcare Consulting. He is an active builder of AI and multi-agent systems and advises organizations on scaling technology and AI across the healthcare enterprise. His teaching and professional work focus on the intersection of healthcare, technology, and market-driven strategy.
+
+Anderson and Course Policies
+
+Confidentiality and Professional Conduct
+The companies in this course are sharing proprietary information with your team, including product details, financial data, competitive intelligence, and strategic plans. This information is confidential. Do not share company materials, findings, or internal discussions outside your team and the course. Do not post company information on social media, in other coursework, or in conversations with people outside the engagement. All external outreach on behalf of the company, including contact with the company's customers, partners, investors, or clinical collaborators, requires instructor approval in advance. You are representing UCLA Anderson in every interaction with the company. Professionalism, responsiveness, and discretion are expected at all times.
+
+UCLA Policies
+
+Code of Conduct
+All participants in the course are bound by the UCLA Student Conduct Code and UCLA Anderson Honor Code.
+
+Academic Integrity
+UCLA is an institution of learning, research, and scholarship predicated on the existence of an environment of honesty and integrity. As members of the academic community, instructors, students, and administrative officials are all responsible for maintaining this environment. It is essential that all members of the academic community practice academic honesty and integrity and accept individual responsibility for their work. Academic misconduct is unacceptable and will not be tolerated in this course. Cheating, forgery, dishonest conduct, plagiarism, and collusion in academic misconduct erode the University's educational, research, and social roles.
+
+Students who knowingly or intentionally conduct or help another student engage in acts that violate UCLA's expectations of academic integrity will be subject to disciplinary action and referred to the Dean of Students' Office.
+
+Accessible Education & Inclusive Education
+
+Disability Services
+UCLA is committed to providing a barrier-free environment for persons with documented disabilities. If you are already registered with the Center for Accessible Education (CAE), please request your Letter of Accommodation in the Student Portal. If you are seeking registration with the CAE, please submit your request for accommodation via the CAE website. Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE website (www.cae.ucla.edu), visit the CAE at A255 Murphy Hall, contact CAE by phone at (310) 825-1501, or by telecommunication device for the deaf at (310) 206-6083.
+
+Course Outline: Fall Quarter (274A)
+
+Week 1 — September 30: Course Launch, Healthcare Landscape & AI Foundations
+In-Class: Healthcare primer lecture (30 min). AI tool demo + Claude Project setup (45 min). Team breakout: company brief review, Claude Project config, initial research (75 min).
+Pre-Class Reading: Instructor healthcare ecosystem primer (via BruinLearn). Pragmatic Institute, "The Strategic Role of Product Management." Anthropic Academy, "AI Fluency for Students." Pragmatic Institute, "7 Keys to Becoming a Market-Driven Organization."
+
+Week 2 — October 7: Problem Framing, Scoping & Healthcare Foundations
+In-Class: Lecture: problem framing and issue trees (45 min). Regulatory and reimbursement foundations (60 min). Team scoping workshop (45 min).
+Pre-Class Reading: StrategyU, "The Logical Structure of Problem Solving." FDA, "FDA 101: How FDA Regulates Medical Devices." Out of Pocket Health, "Healthcare 101." Anthropic Academy, "AI Fluency: Framework & Foundations."
+Due: Personal Goal Statement (individual). Company Research Brief (team).
+
+Week 3 — October 14: Market Sizing & Customer Segmentation
+In-Class: Lecture with worked example (45 min). AI-assisted market sizing workshop (45 min). Team work time (60 min).
+Pre-Class Reading: Anthropic Academy, "Claude 101" (~45 min). Moore, Crossing the Chasm, Ch. 4-5. "Claude Cowork" (YouTube, ~16 min). Instructor market sizing guide (via BruinLearn).
+Due: Project Scope and Workplan (team, with company sign-off).
+
+Week 4 — October 21: Competitive Analysis & Positioning
+In-Class: Lecture: competitive strategy (45 min). Workshop: competitive landscape mapping with AI (45 min). Team positioning exercise (60 min).
+Pre-Class Reading: Porter, "What Is Strategy?" HBR, 1996 (Part 1). April Dunford, Obviously Awesome talk (YouTube, ~34 min). Pragmatic Institute Framework.
+Due: Market Sizing Model + Segmentation Framework (team).
+
+Week 5 — October 28: Stakeholder Research & Value Proposition Development
+In-Class: Lecture: JTBD and interviewing (45 min). Workshop: interview guides and value prop canvases (45 min). Team work time (60 min).
+Pre-Class Reading: Christensen et al., "Know Your Customers' Jobs to Be Done," HBR, 2016. Fitzpatrick, The Mom Test, Ch. 1-2.
+Due: Competitive Landscape Brief + Positioning Statement (team).
+
+Week 6 — November 4: Business Model, Pricing & Channel Strategy. Osteoboost case discussion.
+In-Class: Case discussion: Osteoboost (45 min). Lecture: pricing and channels in health tech (30 min). Team work: Lean Canvas and channel analysis (75 min).
+Pre-Class Reading: Maurya, "Why Lean Canvas vs. Business Model Canvas?" Instructor pricing strategy framework (via BruinLearn). HBS Case: Osteoboost (Herzlinger et al., 2025).
+Due: Interview Guides + Value Proposition Canvas (team).
+
+Week 7 — November 11*: Go-to-Market Synthesis & Guest Speaker. (*Veterans Day — session rescheduled to alternate day this week.)
+In-Class: Guest speaker: health tech operator on selling into health systems (45 min). Go-to-market synthesis workshop (45 min). Team work time (60 min).
+Pre-Class Reading: Advisory Board, "2026 State of Healthcare Procurement" (selected sections; via BruinLearn). Instructor go-to-market synthesis guide (via BruinLearn).
+Due: Osteoboost Case Analysis (individual, 2-3 pages). Business Model Canvas + Channel Analysis (team).
+
+Week 8 — November 18: Strategic Direction Presentations
+In-Class: Feedback skills session (20 min). Team presentations: 5 teams x 25 min (15 min presenting, 10 min feedback). Debrief (15 min).
+Pre-Class Reading: Instructor guide: "Giving and Getting Strategic Feedback" (via BruinLearn).
+Due: Presentation Deck (due start of class). Oral Presentation (in class). Peer Feedback Forms (individual, due within 48 hours). Teams share strategic direction with company and incorporate feedback before finalizing Q1 document.
+
+Week 9 — November 25: Executive Communication, Investor Narrative & Deliverable Refinement
+In-Class: Lecture and worked examples: leading with the answer, narrative structure (45 min). Workshop: teams restructure Week 8 presentation (45 min). Team work: begin drafting strategic direction document (60 min).
+Pre-Class Reading: StrategyU, "The Pyramid Principle." Instructor guide: "Investor Narrative Structure" (via BruinLearn).
+Due: Draft Go-to-Market Synthesis (team).
+
+Week 10 — December 2: AI Toolkit Demo, Q2 Preview & Q1 Close
+In-Class: AI Toolkit Demo: each team presents tools and workflows (10 min each, 50 min total). Q2 preview, structure, and 360 framing (30 min). Team work time (remaining).
+Pre-Class Reading: Prepare AI toolkit demo: 10-minute demonstration of your team's most valuable AI tools and workflows.
+Due: Executive Summary (team, 1-2 pages). Strategic Direction Document (team, 5-10 pages + appendices, due by 12/9). Q2 Work Plan (team, due by 12/9). Team Reflection and Reset (team, due by 12/9). Mid-Course 360 Peer Evaluation (individual, due by 12/9).
+
+Course Outline: Winter Quarter (274B)
+
+Quarter 2 follows a predictable rotation: 1:1 coaching weeks, structured sessions (peer critique, AI demo, dry run), and independent work weeks with progress updates as accountability.
+
+Week 11 — January 6: Q2 Kickoff & Team Reset
+In-Class: Team reset meetings. 1:1 coaching: Teams A & B (30 min each).
+Due: Revised Q2 Work Plan (team, due by Week 12).
+
+Week 12 — January 13: Independent Work & Company Check-in #1
+In-Class: 1:1 coaching: Teams C, D, & E. Independent team work.
+Due: Progress update (half-page) due before 1:1 or end of week.
+
+Week 13 — January 20: Peer Critique Round 1
+In-Class: Each team presents (12-15 min) + structured peer feedback (15 min).
+Pre-Class Reading: Re-read "Giving and Getting Strategic Feedback" (via BruinLearn).
+Due: Peer Feedback Forms (individual, due within 48 hours).
+
+Week 14 — January 27: Independent Work
+In-Class: 1:1 coaching: Teams A & B. Independent team work.
+Due: Progress update due before 1:1 or end of week.
+
+Week 15 — February 3: AI Toolkit Demo Round 2
+In-Class: AI Toolkit Demo: each team (12 min each). 1:1 coaching: Team C.
+Pre-Class Reading: Prepare AI toolkit demo: show progression from Q1.
+
+Week 16 — February 10: Independent Work
+In-Class: 1:1 coaching: Teams D & E. Independent team work.
+Due: Draft Strategic Recommendations (team, due by Week 17).
+
+Week 17 — February 17: Peer Critique Round 2
+In-Class: Structured critique based on draft recommendations.
+Pre-Class Reading: Instructor guide: "How to Pressure-Test a Strategic Recommendation" (via BruinLearn).
+Due: Peer Feedback Forms (individual, due within 48 hours).
+
+Week 18 — February 24: Company Check-in #2 & Final Prep
+In-Class: 1:1 coaching: Teams A, B, & C. Company check-ins this week.
+Due: Progress update due before 1:1 or end of week.
+
+Week 19 — March 3: Dry Run Presentations
+In-Class: Each team delivers full dry run. Instructor and peer feedback. 1:1 coaching: Teams D & E.
+Pre-Class Reading: Duarte or equivalent on executive presentation design (~15 min; resource on Course Site).
+
+Week 20 — March 10: Final Presentations
+In-Class: Final presentations: 5 teams x 45 min (30 min + 15 min Q&A). Company leadership and faculty panel.
+Due: Final Presentation Deck (due by start of class). Final Written Deliverable (team, due by 3/14). Individual Final Reflection (due by 3/14). Final 360 Peer Evaluation (due by 3/14).
+
+Program-Level Learning Objectives (Appendix A)
+
+Strong Industry Acumen: Develop a deep understanding of factors transforming health tech industries, business models, and commercialization opportunities, with specific attention to regulatory, reimbursement, and multi-stakeholder dynamics. Apply market-driven frameworks to formulate, analyze, and solve strategic problems for early-stage health tech companies.
+
+Innovative: Create business and go-to-market strategies that foster sustainable competitive advantage for health tech startups through creative problem-solving and novel applications of analytical tools. Communicate strategic recommendations and product-market insights effectively with clarity, creativity, and adaptability to different stakeholder audiences.
+
+Technologically Savvy: Demonstrate fluency in AI tools (Claude, NotebookLM, agentic workflows) and their strategic application to market research, competitive analysis, and deliverable development.
+
+Collaborative and Inclusive: Work effectively in a diverse team to deliver a high-quality strategic engagement, managing client relationships, peer feedback, and team dynamics with professionalism and inclusivity.
+
+Driven and Purposeful: Set concrete personal development goals, pursue them with initiative throughout the engagement, and reflect honestly on growth and contribution.
+
+Analytically Adept: Apply rigorous quantitative and qualitative methods to size markets, evaluate business models, assess competitive dynamics, and stress-test strategic recommendations.
